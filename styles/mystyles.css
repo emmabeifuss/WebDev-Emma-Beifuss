@@ -1,0 +1,66 @@
+/*!
+  *Emma Beifuss - 12/14/21
+*/
+
+body {
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/ocean.JPG");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.cta {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(86, 122, 103, 0.562)
+}
+
+.img-fluid {
+  max-width: 100%;
+  height:auto;
+}
+#boat {
+  height: 500px;
+  width: 700px;
+  margin-top: 0px;
+  margin-left: 300px;
+}
+#byulogo{
+  height: 500px;
+  width: 500px;
+  margin-top: 0px;
+  margin-left: 400px;
+}
+#boattext{
+  margin-top: 50px;
+}
+#byutext {
+  margin-top: 50px;
+  width: 700px;
+  margin-left: 300px;
+}
+#cart{
+  height: 500px;
+  width: 700px;
+  margin-top: 0px;
+  margin-left: 300px;
+}
+#carttext {
+  margin-top: 50px;
+  margin-left: 300px;
+  width: 700px;
+}
+ol {
+  font-weight: bold;
+  color: #d3a066;
+  text-indent: -5em;
+}
+#video{
+  margin-top: 20px;
+  margin-left: 250px;
+}
+#videotext{
+  margin-top: 20px;
+}
+#about-copyright{
+  margin-bottom: 0px;
+}
